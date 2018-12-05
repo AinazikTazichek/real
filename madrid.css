@@ -1,0 +1,47 @@
+/*.container {*/
+    /*border: 5px #000000 solid;*/
+    /*height: 999px;*/
+/*}*/
+body{
+    background-color: black;
+    /*margin: auto;*/
+    width: 100%;
+    margin-top: 70%;
+
+}
+h1{
+    font-variant: small-caps;
+    color: white;
+
+}
+img{
+    width: 70px;
+    height: 80px;
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+header{
+    min-height: 200px;
+    background: black;
+    text-align: center;
+
+}
+.navbar{
+    margin: 0 auto;
+    margin-left: 200px;
+}
+.navbar li{
+    display: inline-flex;
+    margin-left: 100px ;
+}
+.nav{
+    margin-top: 40px;
+    border: 1px solid white;
+    list-style-type: none;
+    text-decoration: none;
+    color: #ffffff;
+    font-family: "Droid Sans";
+    font-size: 30px;
+}
+
